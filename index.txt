@@ -1,0 +1,2 @@
+Hello  My name is Yathart
+This is a file to test conflicts in git branches
