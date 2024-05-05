@@ -3,4 +3,5 @@ This is a file to test conflicts in git branche
 
 This is the change made ny branch1
 this is change made by master
+hello g how are u
 
